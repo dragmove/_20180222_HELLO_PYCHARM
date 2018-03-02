@@ -1,0 +1,8 @@
+khs
+010-9999-9999
+khs@naver.com
+addr-1
+dragmove
+010-8888-8888
+dragmove@naver.com
+addr-2
